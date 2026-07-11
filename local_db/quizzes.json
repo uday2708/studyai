@@ -1,0 +1,68 @@
+{
+  "41bd2161-35e8-46e4-88b2-90ee390bc914": {
+    "user_id": "5ff286d2-1325-4f78-afa6-50eb9e40245a",
+    "material_id": "d31e3b53-e6fe-4602-8efb-b372ec118804",
+    "title": "Quiz from Summer_Internship_Report.docx",
+    "quiz_type": "mixed",
+    "questions": [
+      {
+        "id": "mock_tf_1",
+        "type": "tf",
+        "question": "Is the following statement true or false: Active revision improves test performance?",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correct_answer": "True",
+        "explanation": "Active revision is scientifically proven to improve scores.",
+        "topic": "Study Methods"
+      },
+      {
+        "id": "mock_short_2",
+        "type": "short",
+        "question": "State the primary benefit of testing yourself regularly.",
+        "options": [],
+        "correct_answer": "active recall",
+        "explanation": "Self-testing triggers active recall, enhancing cognitive retention.",
+        "topic": "Study Methods"
+      },
+      {
+        "id": "mock_mcq_3",
+        "type": "mcq",
+        "question": "Which of the following is most effective for long-term retention?",
+        "options": [
+          "Passive reading",
+          "Highlighting text",
+          "Spaced repetition",
+          "Cramming overnight"
+        ],
+        "correct_answer": "Spaced repetition",
+        "explanation": "Spaced repetition spaces out learning sessions for durable retention.",
+        "topic": "Study Methods"
+      },
+      {
+        "id": "mock_tf_4",
+        "type": "tf",
+        "question": "Is the following statement true or false: Active revision improves test performance?",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correct_answer": "True",
+        "explanation": "Active revision is scientifically proven to improve scores.",
+        "topic": "Study Methods"
+      },
+      {
+        "id": "mock_short_5",
+        "type": "short",
+        "question": "State the primary benefit of testing yourself regularly.",
+        "options": [],
+        "correct_answer": "active recall",
+        "explanation": "Self-testing triggers active recall, enhancing cognitive retention.",
+        "topic": "Study Methods"
+      }
+    ],
+    "submissions": [],
+    "created_at": "2026-07-11T10:16:26.629497+00:00"
+  }
+}

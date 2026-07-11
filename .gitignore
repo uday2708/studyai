@@ -1,0 +1,19 @@
+# Environment files
+.env
+.env.*
+backend/.env*
+
+# Firebase service account
+backend/*firebase-adminsdk*.json
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Node
+node_modules/
+
+# Build outputs
+dist/
+build/

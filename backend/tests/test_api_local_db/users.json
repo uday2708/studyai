@@ -1,0 +1,8 @@
+{
+  "0dd1342b-0073-4728-97fc-252effa9ce73": {
+    "email": "testemail@example.com",
+    "username": "testuser",
+    "password_hash": "mocked_hash",
+    "created_at": "2026-07-11T11:42:10.942881+00:00"
+  }
+}
