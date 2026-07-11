@@ -1,0 +1,24 @@
+{
+  "98876ba5-0c71-4ab5-b560-cf49b4ba5ec5": {
+    "user_id": "6cf4e877-1d6f-4eaf-99fa-dccebb2e1bdd",
+    "quiz_scores": [],
+    "study_hours": 0.0,
+    "materials_uploaded": 1,
+    "flashcards_generated": 0,
+    "summaries_generated": 0,
+    "completion_percentage": 0.0,
+    "updated_at": "2026-07-11T09:27:06.124023+00:00",
+    "weak_topics": []
+  },
+  "4b1887c5-e12a-4eed-9fd0-a54c79a5c488": {
+    "user_id": "5ff286d2-1325-4f78-afa6-50eb9e40245a",
+    "quiz_scores": [],
+    "study_hours": 0.0,
+    "materials_uploaded": 1,
+    "flashcards_generated": 9,
+    "summaries_generated": 14,
+    "completion_percentage": 0.0,
+    "updated_at": "2026-07-11T10:18:05.702238+00:00",
+    "weak_topics": []
+  }
+}

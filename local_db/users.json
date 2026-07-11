@@ -1,0 +1,14 @@
+{
+  "6cf4e877-1d6f-4eaf-99fa-dccebb2e1bdd": {
+    "email": "verifytest@studyai.com",
+    "username": "verifyuser",
+    "password_hash": "8faaefac132dc0ebc86c11c73155f7aa:100000:75cfb8bd5a3ec82006fe22ab7a0638772bf48ff274171b9be692e5855d18cfd5",
+    "created_at": "2026-07-11T09:26:59.880276+00:00"
+  },
+  "5ff286d2-1325-4f78-afa6-50eb9e40245a": {
+    "email": "mallelaudaykumar@gmail.com",
+    "username": "mallela uday",
+    "password_hash": "fd7046a72730ea948116dc9f5c4c5307:100000:a20962613ae19c0ab443d51fd63f8a64d6aeb94016b310c485b9767ad03bbe64",
+    "created_at": "2026-07-11T10:14:51.394826+00:00"
+  }
+}
